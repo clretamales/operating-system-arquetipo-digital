@@ -1,0 +1,7 @@
+# Glossary
+
+## Terms
+
+## Definitions
+
+## Notes

@@ -1,0 +1,7 @@
+# Philosophy
+
+## Overview
+
+## Beliefs
+
+## Notes
