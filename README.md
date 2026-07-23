@@ -1,177 +1,263 @@
-# ARQUETIPO DIGITAL
+<div align="center">
 
-> Arquitectura antes que implementación.
+# Arquetipo Digital
 
----
+### Arquitectura con propósito. Tecnología con dirección.
 
-## ¿Qué es Arquetipo Digital?
-
-ARQUETIPO DIGITAL es una firma especializada en arquitectura digital, desarrollo de soluciones web y consultoría tecnológica.
-
-Creemos que una presencia digital profesional no comienza con el diseño visual.
-
-Comienza con una arquitectura clara.
-
-Nuestra filosofía consiste en construir soluciones digitales sólidas, escalables y sostenibles, donde cada decisión responde a un propósito técnico y estratégico.
-
-No desarrollamos simplemente sitios web.
-
-Diseñamos estructuras digitales.
+*Construyendo conocimiento, arquitectura y soluciones sostenibles.*
 
 ---
 
-# Nuestra Filosofía
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-blue)
 
-Toda solución digital debe ser diseñada como una arquitectura.
+![Framework](https://img.shields.io/badge/Framework-ARCHE-4B6CB7)
 
-La estética comunica.
+![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
 
-La estructura sostiene.
-
-La tecnología habilita.
-
-La simplicidad genera confianza.
+</div>
 
 ---
 
-# Nuestra visión
+# Bienvenido
 
-Ser una firma referente en arquitectura digital y consultoría tecnológica para organizaciones que buscan construir soluciones claras, escalables y sostenibles.
+**Arquetipo Digital** es una iniciativa dedicada al diseño, documentación y evolución de arquitecturas de software, arquitectura empresarial y consultoría tecnológica.
 
----
+Este repositorio reúne la metodología, estándares, plantillas y activos intelectuales que sustentan nuestra forma de trabajar.
 
-# Principios
+No es únicamente una colección de documentos.
 
-- Arquitectura antes que implementación.
-- Claridad antes que complejidad.
-- Funcionalidad antes que decoración.
-- Simplicidad antes que saturación.
-- Calidad antes que velocidad.
-- Documentación antes que improvisación.
-- Evolución antes que obsolescencia.
+Es un sistema diseñado para ayudar a organizaciones y equipos a tomar mejores decisiones arquitectónicas.
 
 ---
 
-# Este repositorio
+# Nuestra Visión
 
-Este repositorio representa el sistema operativo de Arquetipo Digital.
+Creemos que una buena arquitectura no comienza con una tecnología.
 
-Aquí se documentan los principios, decisiones, estándares y componentes que definen la identidad técnica y visual de la empresa.
+Comienza comprendiendo correctamente el problema.
 
-No es únicamente un proyecto de software.
+Nuestro objetivo es construir soluciones que sean:
 
-Es la fuente oficial del conocimiento de Arquetipo Digital.
+- sostenibles;
+- mantenibles;
+- escalables;
+- comprensibles;
+- alineadas con el negocio.
+
+La tecnología cambia constantemente.
+
+Los principios arquitectónicos permanecen.
 
 ---
 
-# Estructura
+# Framework ARCHE
+
+Toda la metodología de Arquetipo Digital se encuentra organizada mediante el **Framework ARCHE**.
+
+| Etapa | Propósito |
+|--------|-----------|
+| **A** · Analizar | Comprender el contexto y el problema. |
+| **R** · Razonar | Evaluar alternativas y tomar decisiones informadas. |
+| **C** · Crear | Diseñar soluciones y producir los entregables necesarios. |
+| **H** · Armonizar | Validar la calidad, la gobernanza y la alineación. |
+| **E** · Evolucionar | Aprender, mejorar y adaptar la arquitectura en el tiempo. |
+
+ARCHE no es una metodología rígida.
+
+Es un marco de trabajo orientado a la toma de decisiones y la mejora continua.
+
+---
+
+# ¿Qué encontrarás en este repositorio?
 
 ```text
 docs/
 │
 ├── foundation/
-├── brand/
-├── strategy/
-├── architecture/
-├── principles/
-├── decisions/
-├── services/
-├── design-system/
-├── development/
-└── roadmap/
+├── methodology/
+├── playbooks/
+├── standards/
+├── templates/
+├── knowledge/
+├── assets/
+└── README.md
 ```
 
-Cada carpeta representa un dominio de conocimiento.
+Cada uno de estos dominios cumple un propósito específico dentro del ecosistema documental.
 
-Toda decisión relevante debe quedar documentada.
+Para conocer el detalle de esta organización consulta:
 
----
-
-# Áreas de Especialización
-
-- Arquitectura Digital
-- Arquitectura de Software
-- Arquitectura Empresarial
-- Desarrollo Web
-- Landing Pages
-- Diseño de Experiencia de Usuario (UX)
-- Diseño de Interfaces (UI)
-- Automatización
-- Inteligencia Artificial aplicada
-- Cloud Architecture
-- DevSecOps
-- Observabilidad
-- Consultoría Tecnológica
+```text
+docs/README.md
+```
 
 ---
 
-# Nuestra forma de trabajar
+# Principios
 
-Observamos.
+Todo el trabajo desarrollado por Arquetipo Digital se apoya sobre cinco principios fundamentales.
 
-↓
+## La arquitectura precede a la implementación
 
-Comprendemos.
-
-↓
-
-Diseñamos.
-
-↓
-
-Construimos.
-
-↓
-
-Validamos.
-
-↓
-
-Optimizamos.
-
-↓
-
-Evolucionamos.
+Antes de escribir código es necesario comprender el problema.
 
 ---
 
-# Documentación
+## Las decisiones son el verdadero diseño
 
-Toda decisión técnica, visual o estratégica debe existir primero como documentación.
+Los diagramas representan decisiones.
 
-La documentación es parte del producto.
+El software implementa decisiones.
 
----
-
-# Diseño
-
-El diseño es consecuencia de la arquitectura.
-
-Nunca al revés.
+La documentación preserva decisiones.
 
 ---
 
-# Tecnología
+## La simplicidad es una decisión arquitectónica
 
-La tecnología no es el objetivo.
+La mejor solución no es la más compleja.
 
-Es el medio para construir soluciones confiables.
-
-Elegimos herramientas por su valor para el negocio, no por tendencias.
+Es la que genera mayor valor con la menor complejidad posible.
 
 ---
 
-# Nuestro compromiso
+## La documentación es un activo estratégico
 
-Cada proyecto debe cumplir cuatro atributos fundamentales:
+Documentar no significa producir archivos.
 
-- Claridad
-- Estructura
-- Escalabilidad
-- Calidad
+Significa preservar conocimiento.
 
-Si una solución no cumple estos principios, simplemente no representa a Arquetipo Digital.
+---
+
+## La arquitectura evoluciona
+
+Ninguna arquitectura está terminada.
+
+Toda arquitectura debe adaptarse al cambio.
+
+---
+
+# ¿Cómo comenzar?
+
+Si es tu primera vez en este repositorio, recomendamos el siguiente recorrido.
+
+```text
+README.md
+        │
+        ▼
+docs/README.md
+        │
+        ▼
+docs/foundation/
+        │
+        ▼
+docs/methodology/
+        │
+        ▼
+docs/standards/
+        │
+        ▼
+docs/playbooks/
+        │
+        ▼
+docs/templates/
+```
+
+Este orden permite comprender la filosofía antes de entrar en los aspectos operativos.
+
+---
+
+# Objetivos del proyecto
+
+Este repositorio busca:
+
+- construir una metodología propia de arquitectura;
+- estandarizar procesos de consultoría;
+- preservar conocimiento organizacional;
+- facilitar la toma de decisiones;
+- mejorar la calidad de las soluciones;
+- promover la mejora continua.
+
+---
+
+# Filosofía del repositorio
+
+La estructura documental sigue un principio simple.
+
+```text
+Pensamiento
+
+↓
+
+Metodología
+
+↓
+
+Estándares
+
+↓
+
+Plantillas
+
+↓
+
+Ejecución
+
+↓
+
+Conocimiento
+
+↓
+
+Mejora Continua
+```
+
+Cada documento existe porque aporta valor a ese ciclo.
+
+---
+
+# Contribuciones
+
+Toda contribución debe respetar:
+
+- los principios arquitectónicos;
+- los estándares documentales;
+- la metodología ARCHE;
+- las convenciones del repositorio.
+
+Antes de crear un nuevo documento, verifica si existe un estándar o plantilla aplicable.
+
+---
+
+# Estado del proyecto
+
+Este repositorio se encuentra en evolución continua.
+
+La metodología, estándares y plantillas se revisan periódicamente para incorporar nuevos aprendizajes y mejores prácticas.
+
+---
+
+# Licencia
+
+Este proyecto se distribuye bajo la licencia definida por Arquetipo Digital.
+
+Consulta el archivo `LICENSE` para más información.
+
+---
+
+# Contacto
+
+**Arquetipo Digital**
+
+Arquitectura de Software • Arquitectura Empresarial • Consultoría Tecnológica
+
+---
+
+> **No construimos únicamente software.**
+>
+> **Construimos conocimiento que permite crear mejores soluciones.**
 
 ---
 
 © Arquetipo Digital
+
